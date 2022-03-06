@@ -1,6 +1,10 @@
 {
   "name": "@standbyoneself/ui-kit",
-  "version": "0.0.4",
+  "version": "0.0.5",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/standbyoneself/ui-kit.git"
+  },
   "description": "",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
